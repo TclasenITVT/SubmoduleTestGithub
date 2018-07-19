@@ -1,0 +1,3 @@
+[submodule "System.IO.Abstraction"]
+	path = System.IO.Abstraction
+	url = https://github.com/TclasenITVT/System.IO.Abstractions.git
